@@ -1,3 +1,8 @@
+---
+title: PANOPTES Hardware Choices
+layout: default
+---
+
 ## Why this combination of cameras and lenses?
 
 Be warned, this answer may take some time. :)
